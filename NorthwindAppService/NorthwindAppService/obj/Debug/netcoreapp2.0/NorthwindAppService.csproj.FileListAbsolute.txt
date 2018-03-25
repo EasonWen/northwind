@@ -1,0 +1,12 @@
+D:\Eason\DotNetCore\NorthwindAppService\NorthwindAppService\bin\Debug\netcoreapp2.0\NorthwindAppService.deps.json
+D:\Eason\DotNetCore\NorthwindAppService\NorthwindAppService\bin\Debug\netcoreapp2.0\NorthwindAppService.runtimeconfig.json
+D:\Eason\DotNetCore\NorthwindAppService\NorthwindAppService\bin\Debug\netcoreapp2.0\NorthwindAppService.runtimeconfig.dev.json
+D:\Eason\DotNetCore\NorthwindAppService\NorthwindAppService\bin\Debug\netcoreapp2.0\NorthwindAppService.dll
+D:\Eason\DotNetCore\NorthwindAppService\NorthwindAppService\bin\Debug\netcoreapp2.0\NorthwindAppService.pdb
+D:\Eason\DotNetCore\NorthwindAppService\NorthwindAppService\obj\Debug\netcoreapp2.0\NorthwindAppService.csproj.CoreCompileInputs.cache
+D:\Eason\DotNetCore\NorthwindAppService\NorthwindAppService\obj\Debug\netcoreapp2.0\NorthwindAppService.AssemblyInfoInputs.cache
+D:\Eason\DotNetCore\NorthwindAppService\NorthwindAppService\obj\Debug\netcoreapp2.0\NorthwindAppService.AssemblyInfo.cs
+D:\Eason\DotNetCore\NorthwindAppService\NorthwindAppService\obj\Debug\netcoreapp2.0\NorthwindAppService.dll
+D:\Eason\DotNetCore\NorthwindAppService\NorthwindAppService\obj\Debug\netcoreapp2.0\NorthwindAppService.pdb
+D:\Eason\DotNetCore\NorthwindAppService\NorthwindAppService\obj\Debug\netcoreapp2.0\NorthwindAppService.csprojResolveAssemblyReference.cache
+D:\Eason\DotNetCore\NorthwindAppService\NorthwindAppService\bin\Debug\netcoreapp2.0\appsettings.json
